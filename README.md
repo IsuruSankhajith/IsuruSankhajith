@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isuru Sankhajith</h1>
 <h3 align="center">🚀 Passionate about software development, AI & ML 💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isurusankhajith&label=Profile%20views&color=0e75b6&style=flat" alt="isurusankhajith" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/isuru sankhajith" target="blank"><img src="https://img.shields.io/twitter/follow/isuru sankhajith?logo=twitter&style=for-the-badge" alt="isuru sankhajith" /></a> </p>
 
